@@ -1,2 +1,4 @@
-# card_festa_mamma
-Card html per la festa della mamma
+# Card per la festa della mamma
+
+Open the [index](./src/index.html) in a browser.
+
